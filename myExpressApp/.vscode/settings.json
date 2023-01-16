@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ddf6dab5-80ef-43a6-ac5e-b2bd34ee31a8/AppServices/subscriptions/ddf6dab5-80ef-43a6-ac5e-b2bd34ee31a8/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/demo-gh-deploy-gnmr",
+    "appService.deploySubpath": "."
+}
